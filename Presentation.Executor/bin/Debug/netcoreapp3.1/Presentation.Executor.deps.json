@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Presentation.Executor/1.0.0": {
+        "dependencies": {
+          "Presentation.Chapters": "1.0.0"
+        },
+        "runtime": {
+          "Presentation.Executor.dll": {}
+        }
+      },
+      "Presentation.Chapters/1.0.0": {
+        "runtime": {
+          "Presentation.Chapters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Presentation.Executor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Presentation.Chapters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

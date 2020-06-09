@@ -1,0 +1,8 @@
+D:\Mohaymen\Presentation\CSharp\Presentation.Chapters\bin\Debug\netstandard2.0\Presentation.Chapters.deps.json
+D:\Mohaymen\Presentation\CSharp\Presentation.Chapters\bin\Debug\netstandard2.0\Presentation.Chapters.dll
+D:\Mohaymen\Presentation\CSharp\Presentation.Chapters\bin\Debug\netstandard2.0\Presentation.Chapters.pdb
+D:\Mohaymen\Presentation\CSharp\Presentation.Chapters\obj\Debug\netstandard2.0\Presentation.Chapters.csprojAssemblyReference.cache
+D:\Mohaymen\Presentation\CSharp\Presentation.Chapters\obj\Debug\netstandard2.0\Presentation.Chapters.AssemblyInfoInputs.cache
+D:\Mohaymen\Presentation\CSharp\Presentation.Chapters\obj\Debug\netstandard2.0\Presentation.Chapters.AssemblyInfo.cs
+D:\Mohaymen\Presentation\CSharp\Presentation.Chapters\obj\Debug\netstandard2.0\Presentation.Chapters.dll
+D:\Mohaymen\Presentation\CSharp\Presentation.Chapters\obj\Debug\netstandard2.0\Presentation.Chapters.pdb

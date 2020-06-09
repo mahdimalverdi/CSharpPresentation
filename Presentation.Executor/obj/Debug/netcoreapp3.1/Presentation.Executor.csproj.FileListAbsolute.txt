@@ -1,0 +1,14 @@
+D:\Mohaymen\Presentation\CSharp\Presentation.Executor\bin\Debug\netcoreapp3.1\Presentation.Executor.exe
+D:\Mohaymen\Presentation\CSharp\Presentation.Executor\bin\Debug\netcoreapp3.1\Presentation.Executor.deps.json
+D:\Mohaymen\Presentation\CSharp\Presentation.Executor\bin\Debug\netcoreapp3.1\Presentation.Executor.runtimeconfig.json
+D:\Mohaymen\Presentation\CSharp\Presentation.Executor\bin\Debug\netcoreapp3.1\Presentation.Executor.runtimeconfig.dev.json
+D:\Mohaymen\Presentation\CSharp\Presentation.Executor\bin\Debug\netcoreapp3.1\Presentation.Executor.dll
+D:\Mohaymen\Presentation\CSharp\Presentation.Executor\bin\Debug\netcoreapp3.1\Presentation.Executor.pdb
+D:\Mohaymen\Presentation\CSharp\Presentation.Executor\obj\Debug\netcoreapp3.1\Presentation.Executor.csprojAssemblyReference.cache
+D:\Mohaymen\Presentation\CSharp\Presentation.Executor\obj\Debug\netcoreapp3.1\Presentation.Executor.AssemblyInfoInputs.cache
+D:\Mohaymen\Presentation\CSharp\Presentation.Executor\obj\Debug\netcoreapp3.1\Presentation.Executor.AssemblyInfo.cs
+D:\Mohaymen\Presentation\CSharp\Presentation.Executor\obj\Debug\netcoreapp3.1\Presentation.Executor.dll
+D:\Mohaymen\Presentation\CSharp\Presentation.Executor\obj\Debug\netcoreapp3.1\Presentation.Executor.pdb
+D:\Mohaymen\Presentation\CSharp\Presentation.Executor\bin\Debug\netcoreapp3.1\Presentation.Chapters.dll
+D:\Mohaymen\Presentation\CSharp\Presentation.Executor\bin\Debug\netcoreapp3.1\Presentation.Chapters.pdb
+D:\Mohaymen\Presentation\CSharp\Presentation.Executor\obj\Debug\netcoreapp3.1\Presentation.Executor.csproj.CopyComplete
